@@ -18,6 +18,9 @@ Na cúpula superior, foi utilizada a impressão 3D com material ABS preto, enqua
 # Créditos
 
 [Adriane Ossaille](https://www.facebook.com/adriane.ossaille)
+
 [Monique Helen Santos Silva](https://www.linkedin.com/in/monique-silva-b0a179123)
+
 [Victor Hugo Martins de Souza](https://www.linkedin.com/in/victor-hugo-martins-de-souza-5ba7b9160)
+
 [Vinicios Souza Guilherme](www.facebook.com/viniciosg)
