@@ -1,4 +1,4 @@
-# BEEombo
+# Beb - Biombo modular
 
 Biombo com peças modulares padronizadas para divisão de ambientes, cuja largura e altura podem ser personalizadas pelo usuário com a adição ou subtração de módulos de encaixe.
 
@@ -11,8 +11,8 @@ Pode ser utilizado em espaços compartilhados ou, até mesmo, como brinquedo.
 
 ## Material necessário
 
-*Placa de MDF* (espessura 3 mm): módulos e travas, fabricados em corte a laser
-*PLA*: dobradiças (1 e 2), fabricadas em impressora 3D
+- **Placa de MDF** (espessura 3 mm): módulos e travas, fabricados em corte a laser
+- **PLA**: dobradiças (1 e 2), fabricadas em impressora 3D
 
 
 # Créditos
