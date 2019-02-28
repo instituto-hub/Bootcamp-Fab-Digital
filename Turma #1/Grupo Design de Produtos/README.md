@@ -1,6 +1,6 @@
 # Luminária
 
-O conceito da Luminária decorativa se baseou na criação de peças com modos de produções e formas distintas que formassem um corpo único por encaixe. Assim, definiu-se uma esfera cuja cúpula superior se deu pela técnica de impressão 3D de uma forma orgânica criada por um voronoi 3D no software Rhinoceros, enquanto a metade inferior consiste em peças encaixaidas cortadas máquina de corte a laser. 
+O conceito da luminária decorativa se baseou na criação de peças com modos de produção e formatos distintos que, ao se unirem, formassem um corpo único por encaixe. Assim, definiu-se uma esfera, cuja cúpula superior em forma orgânica foi obtida por um voronoi 3D no plug-in Grasshopper do software Rhinoceros, e foi materializada pelo processo de impressão 3D. Enquanto a metade inferior consiste em peças encaixadas em uma estrutura de costela, cortadas com uma máquina de corte a laser. 
 
 
 ![alt text](link da imagem no github)
