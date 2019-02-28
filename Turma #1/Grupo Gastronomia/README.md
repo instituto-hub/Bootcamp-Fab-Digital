@@ -1,24 +1,28 @@
-# Nome do Projeto
+# Porta utensilio de cozinha
 
-Descrição
+O Porta utensilio é um suporte para ser aparafusado na parede da cozinha feito utilizando-se uma impressora 3D FDM e uma máquina de corte a laser.
 
 ![alt text](link da imagem no github)
 
 
 ## Objetivo
 
-Descrição (citar como funciona, como e porque seria usado)
+Pendurar-se utensílios e condimentos.
 
 
 ## Material necessário
 
-Descrição e quantidade
+Suporte da parede MDF de 6mm
+Suporte dos utensílios PLA ou ABS 70g
+06 parafusos Philips de 4mm
 
 
 
 # Créditos
 
-(Aqui entra os nomes dos envolvidos no desenvolvimento com link de contato)
+Filipe Bento Sampaio
 
-[Nome](https://www.linkedin.com/company/institutohub)
+Mechelangelo Mancuzo
+
+Paulo Antonio Scassa
 
