@@ -20,4 +20,4 @@ Descrição e quantidade
 
 (Aqui entra os nomes dos envolvidos no desenvolvimento com link de contato)
 
-<Nome> (https://www.linkedin.com/company/institutohub)
+[Nome] (https://www.linkedin.com/company/institutohub)
