@@ -1,24 +1,23 @@
-# Nome do Projeto
+# BEEombo
 
-Descrição
+Biombo com peças modulares padronizadas para divisão de ambientes, cuja largura e altura podem ser personalizadas pelo usuário com a adição ou subtração de módulos de encaixe.
 
 ![alt text](link da imagem no github)
 
 
 ## Objetivo
 
-Descrição (citar como funciona, como e porque seria usado)
-
+Pode ser utilizado em espaços compartilhados ou, até mesmo, como brinquedo.
 
 ## Material necessário
 
-Descrição e quantidade
-
+- *Placa de MDF* (espessura 3 mm): módulos e travas, fabricados em corte a laser
+- *PLA*: dobradiças (1 e 2), fabricadas em impressora 3D
 
 
 # Créditos
 
-(Aqui entra os nomes dos envolvidos no desenvolvimento com link de contato)
-
-[Nome](https://www.linkedin.com/company/institutohub)
-
+[Diego Duarte](https://www.linkedin.com/in/diego-duarte-inov)
+[Marcello Moraes](http://facebook.com/marcello.moraes5)
+[Raquel M. Carvalho](https://br.linkedin.com/in/raquelmachadocarvalho)
+[William Wayn](https://github.com/WillzWayn)
