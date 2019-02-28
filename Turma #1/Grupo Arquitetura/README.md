@@ -18,6 +18,9 @@ Pode ser utilizado em espaços compartilhados ou, até mesmo, como brinquedo.
 # Créditos
 
 [Diego Duarte](https://www.linkedin.com/in/diego-duarte-inov)
+
 [Marcello Moraes](http://facebook.com/marcello.moraes5)
+
 [Raquel M. Carvalho](https://br.linkedin.com/in/raquelmachadocarvalho)
+
 [William Wayn](https://github.com/WillzWayn)
