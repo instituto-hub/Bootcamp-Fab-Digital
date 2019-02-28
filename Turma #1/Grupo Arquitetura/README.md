@@ -1,4 +1,4 @@
-# Bib - Biombo modular
+# BiB - Biombo modular
 
 Biombo com peças modulares padronizadas para divisão de ambientes, cuja largura e altura podem ser personalizadas pelo usuário com a adição ou subtração de módulos de encaixe.
 
