@@ -1,6 +1,5 @@
 # Wearable de Identificação
 
-Descrição
 
 ![alt text](link da imagem no github)
 
