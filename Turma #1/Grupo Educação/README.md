@@ -18,8 +18,8 @@ Peças (bases nitrogenadas) cortadas em acrílico de 3mm.
 
 # Créditos
 
-[Carlos Augusto Ferreira da Fonseca](https://www.linkedin.com/in/carlos-augusto-ferreira-da-fonseca-85711020)
-[Viviane Japiassú Viana](https://www.linkedin.com/in/viviane-japiass%C3%BA-viana-09075b35)
-[Fernanda Sarmento](https://www.linkedin.com/in/fernanda-sarmento-256ba816)
-[Iuri Martins Nepomuceno](https://www.facebook.com/iuri.martins.7)
+[Carlos Augusto Ferreira da Fonseca - ](https://www.linkedin.com/in/carlos-augusto-ferreira-da-fonseca-85711020)
+[Viviane Japiassú Viana - ](https://www.linkedin.com/in/viviane-japiass%C3%BA-viana-09075b35)
+[Fernanda Sarmento - ](https://www.linkedin.com/in/fernanda-sarmento-256ba816)
+[Iuri Martins Nepomuceno - ](https://www.facebook.com/iuri.martins.7)
 [Aline Pina](https://www.instagram.com/alineapina)
