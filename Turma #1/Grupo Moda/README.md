@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Wearable de Identificação
 
 Descrição
 
@@ -11,10 +11,12 @@ O projeto tinha como objetivo a criação de acessórios que além de serem est�
 
 Outra possibilidade é o uso do QR Code pra criação de chaves identificadoras em eventos, parques e ambientes afins pra fins de contabilidade.
 
+Nós tinhamos por objetivo explorar diferentes formas e modelos estéticos ao invés de focar exclusivamente em um estilo em particular.
+
 ## Material necessário
 
--Filamento PLA para as impressões
--Madeira MDF 2.5mm (tamanho da chapa de no mínimo 3cm por 3cm)
+* Filamento PLA para as impressões
+* Madeira MDF 2.5mm (tamanho da chapa de no mínimo 3cm por 3cm)
 
 
 # Créditos
@@ -25,5 +27,5 @@ Outra possibilidade é o uso do QR Code pra criação de chaves identificadoras 
 
 [Stella Alves](www.artstation.com/kwakbyeol)
 
-[Nome](https://www.linkedin.com/company/institutohub)
+[Ingrid]()
 
