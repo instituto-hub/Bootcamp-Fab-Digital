@@ -26,5 +26,5 @@ Nós tinhamos por objetivo explorar diferentes formas e modelos estéticos ao in
 
 [Stella Alves](www.artstation.com/kwakbyeol)
 
-[Ingrid]()
+[Ingrid]
 
