@@ -1,13 +1,13 @@
 # Nome do Projeto
 
-Descrição
+DNA 3D - Uma ferramenta lúdica para desvendar a genética.
 
 ![alt text](link da imagem no github)
 
 
 ## Objetivo
 
-Descrição (citar como funciona, como e porque seria usado)
+Tornar o ensino de 
 
 
 ## Material necessário
