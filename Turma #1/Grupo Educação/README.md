@@ -1,4 +1,4 @@
-# Nome do Projeto
+# DNA 3D
 
 DNA 3D - Uma ferramenta lúdica para desvendar a genética.
 
@@ -14,12 +14,17 @@ Através de uma estrutura de dupla hélice modelada em 3D, os alunos tem a oport
 ## Material necessário
 
 Base impressa em Impressora 3D - Pode ser usado qualquer tipo de filamento.
+
 Peças (bases nitrogenadas) cortadas em acrílico de 3mm.
 
 # Créditos
 
-[Carlos Augusto Ferreira da Fonseca - ](https://www.linkedin.com/in/carlos-augusto-ferreira-da-fonseca-85711020)
-[Viviane Japiassú Viana - ](https://www.linkedin.com/in/viviane-japiass%C3%BA-viana-09075b35)
-[Fernanda Sarmento - ](https://www.linkedin.com/in/fernanda-sarmento-256ba816)
-[Iuri Martins Nepomuceno - ](https://www.facebook.com/iuri.martins.7)
+[Carlos Augusto Ferreira da Fonseca](https://www.linkedin.com/in/carlos-augusto-ferreira-da-fonseca-85711020)
+
+[Viviane Japiassú Viana](https://www.linkedin.com/in/viviane-japiass%C3%BA-viana-09075b35)
+
+[Fernanda Sarmento](https://www.linkedin.com/in/fernanda-sarmento-256ba816)
+
+[Iuri Martins Nepomuceno](https://www.facebook.com/iuri.martins.7)
+
 [Aline Pina](https://www.instagram.com/alineapina)
