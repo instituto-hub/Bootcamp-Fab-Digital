@@ -2,7 +2,7 @@
 
 Biombo com peças modulares padronizadas para divisão de ambientes, cuja largura e altura podem ser personalizadas pelo usuário com a adição ou subtração de módulos de encaixe.
 
-![alt text](link da imagem no github)
+![alt text](https://github.com/instituto-hub/Bootcamp-Fab-Digital/blob/master/Turma%20%231/Grupo%20Arquitetura/Imagens/54278787_841078746231736_1479472455146799104_o.jpg)
 
 
 ## Objetivo
