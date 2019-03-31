@@ -1,7 +1,8 @@
 # Wearable de Identificação
 
+![alt text](https://github.com/instituto-hub/Bootcamp-Fab-Digital/blob/master/Turma%20%231/Grupo%20Moda/Imagens/55600768_841078086231802_1746962533010374656_o.jpg)
 
-![alt text](link da imagem no github)
+![alt text](https://github.com/instituto-hub/Bootcamp-Fab-Digital/blob/master/Turma%20%231/Grupo%20Moda/Imagens/55501504_841080776231533_5031217719526031360_o.jpg)
 
 
 ## Objetivo
