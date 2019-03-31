@@ -3,7 +3,9 @@
 O conceito da luminária decorativa se baseou na criação de peças com modos de produção e formatos distintos que, ao se unirem, formassem um corpo único por encaixe. Assim, definiu-se uma esfera, cuja cúpula superior em forma orgânica foi obtida por um voronoi 3D no plug-in Grasshopper do software Rhinoceros, e foi materializada pelo processo de impressão 3D. Enquanto a metade inferior consiste em peças encaixadas em uma estrutura de costela, cortadas com uma máquina de corte a laser. 
 
 
-![alt text](link da imagem no github)
+![alt text](https://github.com/instituto-hub/Bootcamp-Fab-Digital/blob/master/Turma%20%231/Grupo%20Design%20de%20Produtos/Imagens/55600768_841078086231802_1746962533010374656_o.jpg)
+
+![alt text](https://github.com/instituto-hub/Bootcamp-Fab-Digital/blob/master/Turma%20%231/Grupo%20Design%20de%20Produtos/Imagens/55501504_841080776231533_5031217719526031360_o.jpg)
 
 
 ## Objetivo
