@@ -2,7 +2,7 @@
 
 DNA 3D - Uma ferramenta lúdica para desvendar a genética.
 
-![alt text](link da imagem no github)
+![alt text](https://github.com/instituto-hub/Bootcamp-Fab-Digital/blob/master/Turma%20%231/Grupo%20Educa%C3%A7%C3%A3o/Imagens/54525633_841078679565076_4746142855846690816_o.jpg)
 
 
 ## Objetivo
