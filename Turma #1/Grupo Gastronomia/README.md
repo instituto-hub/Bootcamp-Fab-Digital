@@ -2,7 +2,7 @@
 
 O Porta utensilio é um suporte para ser aparafusado na parede da cozinha feito utilizando-se uma impressora 3D FDM e uma máquina de corte a laser.
 
-![alt text](link da imagem no github)
+![alt text](https://github.com/instituto-hub/Bootcamp-Fab-Digital/blob/master/Turma%20%231/Grupo%20Gastronomia/Imagens/54462882_841077699565174_8099623985936859136_o.jpg)
 
 
 ## Objetivo
